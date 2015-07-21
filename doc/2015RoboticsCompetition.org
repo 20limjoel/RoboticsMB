@@ -1,0 +1,93 @@
+#+TITLE: Robotics Merit Badge Class Competition:  Robotic Plutonium Carry
+#+AUTHOR: Maurice Ling
+#+DATE: 2015-07-20
+* Competition Time, Date and Location
+  - Location:  Light of Christ Church Fellowship Hall
+  - Date:  August 30, 2015
+  - Time:
+    - 6:00 pm setup
+    - 6:30 pm Judges' Design Reviews
+    - 7:00 pm Competition Start.
+* Summary
+  1. Transport radioactive plutonium payload from one reactor to another.
+  2. Plutonium payload will take the form of a ping pong ball.
+  3. Begin and end with a human-controlled segment to load and unload
+     the payload.
+  4. Autonomously navigate a transport course between the load and unloading areas.
+* Terminology
+  1. We shall refer to the humans participating in the competition as the /participant(s)/
+     and the device as the /robot/.
+  2. The /payload/ refers to the ping pong ball in the competition.
+  3. The /competition/ refers to each participator's performance in the 
+     competition course.
+  4. The /over-all competition/ refers to the entire competition with all participants.
+  5. The participant's /entry/ into the competition includes the hardware, software (program), 
+     and documentation (Engineering Notebook)
+
+* Competition Specifications
+** Hardware
+   1. The robot shall be programmable by the participant(s).
+   2. The robot shall use one or more processors/boards
+** Programming
+   1. The robot shall not be re-programmed while the robot is in the competition course.
+   2. The source code for the robots must be available for judges to review.
+   3. The participant may utilize libraries in the program.
+   4. If code is copy and pasted from third party sources, the reference must be
+      attributed in the code comments.
+   5. The core code and logic must be written by the participant
+** Time for Completion
+   1. The robot shall complete the course in maximum of 5 minutes.
+   2. Bonus points shall be awarded for time achieved under 3 minutes.
+** Payload
+   1. The payload shall be a regulation (non-radioactive) ping pong ball with a diameter
+      of 40mm
+   2. The payload shall not be directly touched by the participant.
+** Loading/Unloading
+   1. The robot shall load payload from an 3 inch high elevated platform.
+   2. The robot shall unload the payload onto a 3-inch high elevated platform.
+   3. Loading and unloading may be done using manual (human-directed or controlled
+      mechanisms).
+** Transport Course
+   1. The transport course will be navigated autonomously by the robot.
+   2. The payload shall remain with the robot during transport
+   3. The participant shall not manually intervene while the robot is within
+      the transport course.
+   4. The robot shall not make contact with walls or objects within the 
+      transport course.
+** Documentation
+   Designs must be documented in your Engineering Notebook and include:
+   1. Programming logic
+   2. Mechanical/Physical design diagrams/sketches
+   3. Circuit diagram
+      
+* Teamwork (optional)
+  1. A scout may team up with one other scout. 
+  2. Team must be decided by the end of the 2nd class.
+  3. Each member of the team must understand how the entire robot operates.
+
+* Scoring
+  1. Completion of each segment (Load, transport, Unload) shall be +20 points.
+  2. Complete design documentation in Engineering Notebook up to +20 points
+     awarded as follows:
+     1) Programming logic (+5)
+     2) Physical design (+5)
+     3) Circuit/Electrical design (+5)
+     4) Neatness/organization (+5)
+  3. Bonus Points
+     1) Time Bonus
+        - +10 for under 3 minutes
+        - +20 for under 2 minutes
+        - +30 for under 1 minute
+     2) Up to +20 points for elegant and innovative design
+  4. Point Deductions
+     1) Each manual intervention by the participant during transport (-5)
+     2) Each payload touch by the participant (-5)
+* Judge Panel
+  1. Scoring shall be done by an imparital judge panel.
+  2. Each judge will score the competitions individually, making appropriate notes.
+  3. 30 minutes prior to the beginning of the over-all competition, the judges will individually
+     review each the participant's entries ask the participants questions.
+     Time spent with each participant shall not exceed 3 minutes.
+  4. At the completion of each competition, the judges will spend up to 2 minutes to 
+     agree on the final score for the participant.
+  5. Judges will be selected by the Merit Badge Counselor.

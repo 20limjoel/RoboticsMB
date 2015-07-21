@@ -12,12 +12,14 @@
    - Laptop/computer with Android IDE installed. (see Section: [[Computer Requirements]])
    - Laptop power adapter/cable.
    - Pen/pencil for taking notes
+   - Robotics Notebook, Workbook and Kit (distributed in first class)
+   - Blue Card signed by Scoutmaster
    - USB -A to mini-B USB cable.  These are commonly used to connect
      cameras or other devices to computers.  You should be able to
      find these lying around in a drawer somewhere.  There are
      different types of mini-B cables.  The kind you need looks like:
    #+CAPTION: USB-A to Mini-B Cable
-   [[http://bsatroop675.org/wordpress/wp-content/uploads/2014/05/USB-AToMini-BCable.jpg]].
+   [[./images/USB-AToMini-BCable.jpg]]
 
 * Computer Requirements
 
