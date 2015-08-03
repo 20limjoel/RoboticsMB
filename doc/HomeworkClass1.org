@@ -58,9 +58,11 @@
      synchronize to push your changes to the server.
 * Put Together Robot
   Put together your robot following the instructions on [[http://www.instructables.com/id/Rocket-Brand-Studios-Tadpole-Robot/][instructables.com]].
+  There are variations of the Tadpole.  Ours is the Educational version
+  with MicroMagician.
   *Note* Our robot does not include the bumper switches mentioned in the instructions.
 * Calibrate Robot
-  Follow the tutorials at RocketBrandStudios to program and calibrate the motors:
+  Follow the [[https://sites.google.com/a/rocketbrandstudios.com/rocket-brand-studios/tutorials/tadpole-tutorials-microm][tutorials at RocketBrandStudios]] to program and calibrate the motors:
   1. [[https://sites.google.com/a/rocketbrandstudios.com/rocket-brand-studios/tutorials/tutorials-tadpole-main/tadpole-tutorials-which-motor-is-which][Figure out which motor is which.]]
   2. [[https://sites.google.com/a/rocketbrandstudios.com/rocket-brand-studios/tutorials/tutorials-tadpole-main/tadpole-tutorials-motor-speed-and-go-straight][Calibrate the robot to go straight.]]
   3. Commit all your source code using GitHub after each exercise and
