@@ -28,6 +28,9 @@ enum keyCodes
   DOWN_KEY=123
 };
 
+/**
+ * Convert an IR code into a computer command
+ **/
 const char *codeToCmd(int irCode)
 {
   switch (irCode)
@@ -51,10 +54,10 @@ const char *codeToCmd(int irCode)
 
 void loop()
 {
+  // limit the number of key presses processed to filter out repeated commands
   const int keyPressRate=250; // keypress rate in ms
   unsigned long currentTime=millis();
-  if(microM.ircommand>0 && currentTime-lastCmdTime > keyPressRate)                         // display command from IR receiver
-  {
+  if(microM.ircommand>0 && currentTime-lastCmdTime > keyPressRate)  {
     lastCmdTime=currentTime;
 
     const char * cmd=codeToCmd(microM.ircommand); 
